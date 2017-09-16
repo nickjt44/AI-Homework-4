@@ -1,0 +1,16 @@
+Tell:A+B->E
+Tell:A
+Tell:C
+Tell:C*D->G
+Retract:A
+Tell:B
+Tell:-F*H->M
+Retract:C
+Tell:H
+Tell:-F
+Retract:C
+Retract:-F
+Tell:M*B+U->-L
+Tell:-H
+Tell:M
+Tell:L
